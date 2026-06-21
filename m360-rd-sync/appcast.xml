@@ -3,13 +3,13 @@
     <channel>
         <title>M360 RD Sync</title>
         <item>
-            <title>0.1.10</title>
-            <pubDate>Mon, 15 Jun 2026 07:05:56 -0400</pubDate>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
+            <title>0.1.11</title>
+            <pubDate>Sun, 21 Jun 2026 09:21:33 -0400</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://519tech.github.io/m360-rd-sync/M360RDSync-0.1.10.dmg" length="5594558" type="application/octet-stream" sparkle:edSignature="njQo9vxvgkzyLtOgTMmmJ67UBosfVsgyZJzT/PhRkbsoUf/z7VYyaAUsGYANhOXqAPt0Du/tEspE4mMQ/XLTBQ=="/>
+            <enclosure url="https://519tech.github.io/m360-rd-sync/M360RDSync-0.1.11.dmg" length="5825149" type="application/octet-stream" sparkle:edSignature="8Jtz7HIHbJSKh1suI8cZFOzf/c/zJ6BzVhClIaJPUl6p7Ng5uoXpmcl2+c6uDFUnt5rLYDzr7jfmuGsnhqM2Dg=="/>
         </item>
     </channel>
 </rss>
