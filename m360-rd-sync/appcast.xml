@@ -1,7 +1,18 @@
-<?xml version="1.0" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>M360 RD Sync</title>
+        <item>
+            <title>0.2.1</title>
+            <pubDate>Wed, 07 Oct 2026 17:24:41 -0400</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description>&lt;ul&gt;&lt;li&gt;Wholesale Print Batch now prints directly to the label printer saved in Settings, without a system print dialog.&lt;/li&gt;&lt;li&gt;Print Options remains available for changing printer, page range or copies. PDF export is unchanged.&lt;/li&gt;&lt;li&gt;Direct printing sends one copy of each reviewed label at the correct label size and preserves review and reprint safeguards.&lt;/li&gt;&lt;/ul&gt;
+</description>
+            <enclosure url="https://519tech.github.io/m360-rd-sync/M360RDSync-0.2.1.dmg" length="6570471" type="application/octet-stream" sparkle:edSignature="aY7ofbT6268lKOQvbkFlbLzofYTVcFnlUUAUbJ+orttdKXI4y4Ls3ZeRc7JbSb3X21EPy8HtT7ptOt7jY8JHBA==" />
+        </item>
         <item>
             <title>0.2.0</title>
             <pubDate>Tue, 06 Oct 2026 20:14:42 -0400</pubDate>
@@ -9,9 +20,9 @@
             <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<ul><li>Match RepairDesk serialized phones using each device’s own retail price; hide sold devices and recheck stock before printing.</li><li>Wholesale Labels: scan or paste IMEIs and serials, review matches, and batch-print RD item names, identifier barcodes and today’s date without prices.</li><li>Improve label editing, device review and print safeguards.</li></ul>
-]]></description>
-            <enclosure url="https://519tech.github.io/m360-rd-sync/M360RDSync-0.2.0.dmg" length="6582697" type="application/octet-stream" sparkle:edSignature="O/MyC44CNwsOpKskQaSHAcnqP1kLS31eBQdS9k7tuXJYpBkI3uTd55I3D/ufqxPjsf8k6WZlae5e6zMaPZMaBg=="/>
+            <description>&lt;ul&gt;&lt;li&gt;Match RepairDesk serialized phones using each device’s own retail price; hide sold devices and recheck stock before printing.&lt;/li&gt;&lt;li&gt;Wholesale Labels: scan or paste IMEIs and serials, review matches, and batch-print RD item names, identifier barcodes and today’s date without prices.&lt;/li&gt;&lt;li&gt;Improve label editing, device review and print safeguards.&lt;/li&gt;&lt;/ul&gt;
+</description>
+            <enclosure url="https://519tech.github.io/m360-rd-sync/M360RDSync-0.2.0.dmg" length="6582697" type="application/octet-stream" sparkle:edSignature="O/MyC44CNwsOpKskQaSHAcnqP1kLS31eBQdS9k7tuXJYpBkI3uTd55I3D/ufqxPjsf8k6WZlae5e6zMaPZMaBg==" />
         </item>
         <item>
             <title>0.1.14</title>
@@ -20,7 +31,7 @@
             <sparkle:shortVersionString>0.1.14</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://519tech.github.io/m360-rd-sync/M360RDSync-0.1.14.dmg" length="5805415" type="application/octet-stream" sparkle:edSignature="RYGvkWvzTAYRjxoV88NdgWKRUwC/TocQ2w3WUGiyhMBWYkDEt85Cvh40l6aDTK5aAl4Ak2270/mO+Mikuk6dCQ=="/>
+            <enclosure url="https://519tech.github.io/m360-rd-sync/M360RDSync-0.1.14.dmg" length="5805415" type="application/octet-stream" sparkle:edSignature="RYGvkWvzTAYRjxoV88NdgWKRUwC/TocQ2w3WUGiyhMBWYkDEt85Cvh40l6aDTK5aAl4Ak2270/mO+Mikuk6dCQ==" />
         </item>
     </channel>
 </rss>
