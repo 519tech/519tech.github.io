@@ -3,6 +3,17 @@
     <channel>
         <title>M360 RD Sync</title>
         <item>
+            <title>0.2.0</title>
+            <pubDate>Tue, 06 Oct 2026 20:14:42 -0400</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul><li>Match RepairDesk serialized phones using each device’s own retail price; hide sold devices and recheck stock before printing.</li><li>Wholesale Labels: scan or paste IMEIs and serials, review matches, and batch-print RD item names, identifier barcodes and today’s date without prices.</li><li>Improve label editing, device review and print safeguards.</li></ul>
+]]></description>
+            <enclosure url="https://519tech.github.io/m360-rd-sync/M360RDSync-0.2.0.dmg" length="6582697" type="application/octet-stream" sparkle:edSignature="O/MyC44CNwsOpKskQaSHAcnqP1kLS31eBQdS9k7tuXJYpBkI3uTd55I3D/ufqxPjsf8k6WZlae5e6zMaPZMaBg=="/>
+        </item>
+        <item>
             <title>0.1.14</title>
             <pubDate>Tue, 23 Jun 2026 09:46:33 -0400</pubDate>
             <sparkle:version>25</sparkle:version>
