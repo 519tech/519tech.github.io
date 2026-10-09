@@ -3,6 +3,17 @@
     <channel>
         <title>M360 RD Sync</title>
         <item>
+            <title>0.2.4</title>
+            <pubDate>Fri, 09 Oct 2026 17:18:06 -0400</pubDate>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description>&lt;ul&gt;&lt;li&gt;Move wholesale label content upward by about 1 mm, reducing top space and increasing bottom clearance.&lt;/li&gt;&lt;li&gt;Preserve centered identifiers, bold item name, barcode sizing, and one-press printing.&lt;/li&gt;&lt;/ul&gt;
+</description>
+            <enclosure url="https://519tech.github.io/m360-rd-sync/M360RDSync-0.2.4.dmg" length="6664333" type="application/octet-stream" sparkle:edSignature="2j4Tsy/odCWaVQWp9I6i/R8zgfdlHaE58d5g32kyqyJDL10807dv/fsbCVk7VDEDqKeYiIgz+CslGOin446MBA==" />
+        </item>
+        <item>
             <title>0.2.3</title>
             <pubDate>Fri, 09 Oct 2026 14:50:35 -0400</pubDate>
             <sparkle:version>30</sparkle:version>
