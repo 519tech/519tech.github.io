@@ -3,6 +3,17 @@
     <channel>
         <title>M360 RD Sync</title>
         <item>
+            <title>0.2.2</title>
+            <pubDate>Fri, 09 Oct 2026 12:20:21 -0400</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description>&lt;ul&gt;&lt;li&gt;Wholesale labels now have IMEI and serial barcodes, a bold RepairDesk name, and no date or price.&lt;/li&gt;&lt;li&gt;Add your key in Settings → SickW and enable optional missing-identifier lookups. Paid checks use your balance; successful pairs are cached and failed requests stay held.&lt;/li&gt;&lt;li&gt;Stop Lookups, manual companion entry, and reviewed single-identifier printing are available. Existing one-press printing is preserved.&lt;/li&gt;&lt;/ul&gt;
+</description>
+            <enclosure url="https://519tech.github.io/m360-rd-sync/M360RDSync-0.2.2.dmg" length="6662956" type="application/octet-stream" sparkle:edSignature="Sn7nvCnRo0Y+w0mb7g+xlQHCJawDz+bOMAO/kouo/Mu3s4ZhGXBZS4B2qhUTwJDkEttJwf6WqwyQz49ArAIBDA==" />
+        </item>
+        <item>
             <title>0.2.1</title>
             <pubDate>Wed, 07 Oct 2026 17:24:41 -0400</pubDate>
             <sparkle:version>28</sparkle:version>
